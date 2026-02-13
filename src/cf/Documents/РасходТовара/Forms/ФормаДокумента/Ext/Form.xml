@@ -147,6 +147,12 @@
 							<ContextMenu name="ВалютаКонтекстноеМеню" id="27"/>
 							<ExtendedTooltip name="ВалютаExtendedTooltip" id="63"/>
 						</InputField>
+						<InputField name="Договор" id="90">
+							<DataPath>Объект.Договор</DataPath>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ДоговорКонтекстноеМеню" id="91"/>
+							<ExtendedTooltip name="ДоговорРасширеннаяПодсказка" id="92"/>
+						</InputField>
 					</ChildItems>
 				</UsualGroup>
 			</ChildItems>
